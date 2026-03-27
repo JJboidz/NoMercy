@@ -48,5 +48,5 @@ git clone https://github.com/JJboidz/NoMercy.git
 cd NoMercy
 
 # Run the tool
-chmod +x NoMercy.sh
-./NoMercy
+chmod +x projectnomercy.sh
+./projectnomercy
