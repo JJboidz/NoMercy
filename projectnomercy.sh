@@ -21,6 +21,11 @@ if [ "$INSTALLDEP" == "y" ]; then
     git clone https://github.com/wanzxploit/zphisher.git
     git clone https://github.com/palahsu/DDoS-Ripper.git
     git clone https://github.com/bakdala/instainsane.git
+    mv DDoS-Ripper ~/
+    mv instainsane ~/
+    mv MedusaPhisher ~/
+    mv phonextract ~/
+    mv zphisher ~/
     cd MedusaPhisher
     chmod +x *
     ./setup.sh
